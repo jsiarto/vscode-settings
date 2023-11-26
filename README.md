@@ -2,6 +2,11 @@
 Settings, themes, and customizations for Visual Studio Code
 
 ## Theme
+I use a _lightly_ customized version of the popular [Dracula](https://draculatheme.com) theme. My modifictions are listed in the `settings.json` configuration below. Make sure to [install the theme in VS Code](https://draculatheme.com/visual-studio-code) before applying `workbench.colorCustomizations` and `editor.tokenColorCustomizations` to your `settings.json`.
+
+### Modifications
+- Creates a dark, solid background line highlight in the editor.
+- Changes the green in the attribute name property to #40F99B.
 
 ## settings.json
 ```json
