@@ -1,6 +1,6 @@
 # VS Code
 Settings, themes, and customizations for Visual Studio Code
-
+<img width="1074" alt="vscode-preview" src="https://github.com/jsiarto/vscode-settings/assets/3758/85eb55ac-c491-44ee-b024-d05aaf1b4458">
 ## Theme
 I use a _lightly_ customized version of the popular [Dracula](https://draculatheme.com) theme. My modifictions are listed in the `settings.json` configuration below. Make sure to [install the theme in VS Code](https://draculatheme.com/visual-studio-code) before applying `workbench.colorCustomizations` and `editor.tokenColorCustomizations` to your `settings.json`.
 
