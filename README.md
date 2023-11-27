@@ -11,7 +11,7 @@ I use a _lightly_ customized version of the popular [Dracula](https://draculathe
 ## settings.json
 ```json
 {
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "editor.cursorStyle": "block",
     "editor.wordWrap": "on",
     "breadcrumbs.enabled": false,
